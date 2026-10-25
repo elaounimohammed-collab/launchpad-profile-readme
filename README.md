@@ -1,144 +1,329 @@
-<!-- 
-  <<< Author notes: Header of the course >>> 
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
--->
-
-# Launchpad: Profile README
-
-_Say hello to your community._
-
-
-<!-- 
-  <<< Author notes: Start of the course >>> 
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
-
-<details id=0 open>
-<summary><h2>Welcome</h2></summary>
-
-Say ‘Hello world’ with a profile README that lets you introduce yourself to the GitHub community. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub. This experience walks you through a quick tutorial to create your profile README.
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: How to create a public repository for use as a profile README.
-- **What you'll build**: We'll make a profile README file.
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This launchpad takes about 20 mins to complete.
-
-**About your profile README**
-
-You can share information about yourself with the community on GitHub.com by creating a profile README. GitHub shows your profile README at the top of your profile page. Here are some examples of information that visitors may find interesting, fun, or useful in your profile README.
-- An "About me" section that describes your work and interests
-- Contributions you're proud of, and context about those contributions
-- Guidance for getting help in communities where you're involved
-
-Here’s an example of a Campus Expert profile README
-<img width="1367" alt="Screen Shot 2023-03-13 at 2 55 41 PM" src="https://user-images.githubusercontent.com/107881423/224805660-26f7272f-6df1-42c0-b4c4-f3b2d790dd65.png">
-
-
-
-
-
-
-## Start Here
-
-1. **What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
-
-2. **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
-<br>:tv: [Video: Exploring a repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
-3. **Course tips:**
-GitHub will display your profile README on your profile page if all of the following are true:
- - You've created a repository with a name that matches your GitHub username.
- - The repository is public.
- - The repository contains a file named README.md in its root.
- - The README.md file contains any content.
-
-
-</details>
-
-<!-- 
-  <<< Author notes: Step 1 >>> 
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-<details id=1>
-<summary><h2>Adding a profile README</h2></summary>
-
-1. Open an additional tab in GitHub and follow the instructions below.
-
-2. In the upper-right corner of any page, click the ‘+’ and use the  drop-down menu, and select New repository.
-<img width="265" alt="Screen Shot 2023-03-13 at 3 27 56 PM" src="https://user-images.githubusercontent.com/107881423/224812150-895e1373-03c1-4208-83be-6f671eb41496.png">
-
-3. Under "Repository name", type a repository name that matches your GitHub username. For example, if your username is "octocat", the repository name must be "octocat".
-<img width="662" alt="Screen Shot 2023-03-13 at 3 28 06 PM" src="https://user-images.githubusercontent.com/107881423/224812371-3870872e-df11-4da8-8bbe-9d9ae3d57c3f.png">
-
-4. Optionally, add a description of your repository. For example, "My personal repository."
-<img width="643" alt="Screen Shot 2023-03-13 at 3 28 13 PM" src="https://user-images.githubusercontent.com/107881423/224812472-7c8da3b3-48fd-4d46-8ac6-dcadcef09d67.png">
-
-5. Select Public.
-<img width="651" alt="Screen Shot 2023-03-13 at 3 28 20 PM" src="https://user-images.githubusercontent.com/107881423/224812820-b40fd7a7-6802-4777-bf43-08c4b306efa9.png">
-
-6. Select Initialize this repository with a README.
-<img width="642" alt="Screen Shot 2023-03-13 at 3 28 28 PM" src="https://user-images.githubusercontent.com/107881423/224812890-790983ba-53d5-4eab-ba99-c46fb980b714.png">
-
-7. Click Create repository.
-<img width="646" alt="Screen Shot 2023-03-13 at 3 28 34 PM" src="https://user-images.githubusercontent.com/107881423/224813018-b15edbee-2765-414a-a14c-eacb2a85d7b7.png">
-
-8. Above the right sidebar, click Edit README.
-<img width="646" alt="Screen Shot 2023-03-13 at 3 28 41 PM" src="https://user-images.githubusercontent.com/107881423/224813085-b9f3df65-65dd-4d20-9298-1231f5b07e3b.png">
-
-9. The generated README file is pre-populated with a template to give you some inspiration for your profile README.
-<img width="659" alt="Screen Shot 2023-03-13 at 3 28 49 PM" src="https://user-images.githubusercontent.com/107881423/224813159-539f5b7d-ce1b-448e-bf92-f0c6d40f710f.png">
-
-To add a photo, simply drag the file from your computer into the text edit box and it will be uploaded in that section. For a summary of all the available emojis and their codes, see "Emoji cheat sheet."
-
-10. When you've made your customizations and want to save your work, select Commit Changes.
-<img width="353" alt="Screen Shot 2023-03-13 at 3 38 58 PM" src="https://user-images.githubusercontent.com/107881423/224814477-ccef9444-5e98-4aac-8f78-8960b678abf5.png">
-
-
-_You did it! :tada:_
-
-
-
-
-<!-- 
-  <<< Author notes: Finish >>> 
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-<details id=X>
-<summary><h2>Finish</h2></summary>
-
-_Congratulations, you've completed this launchpad and joined the world of developers!_
-
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
-
-
-### What's next?
-
-
-Check out these resources to learn more or get involved:
-- Check out the [Student Developer Pack](https://education.github.com/pack) for more resources and exclusive partner offers.
-- Explore more Experiences to help you make the most of your GitHub account.
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-
-
-</details>
-
 <!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  MOHAMMED EL AOUNI · GITHUB PROFILE
+  Add verified project and contact links when available.
+  Decorative images depend on external services.
 -->
+
+<a id="top"></a>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,40:0F172A,75:0E7490,100:22D3EE&amp;height=250&amp;section=header&amp;text=MOHAMMED%20EL%20AOUNI&amp;fontSize=36&amp;fontColor=F8FAFC&amp;fontAlignY=36&amp;desc=CYBERSECURITY%20%E2%80%A2%20CRYPTOLOGY%20%E2%80%A2%20BLUE%20TEAM&amp;descSize=14&amp;descAlignY=56" alt="Mohammed EL AOUNI — Cybersecurity, Cryptology and Blue Team" />
+
+<p><strong>Understanding systems. Investigating signals. Building defenses.</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/MASTER_2-Security_%26_Cryptology-0891B2?style=flat-square&amp;labelColor=0F172A" alt="Master 2 in Security and Cryptology" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-SOC_%26_Blue_Team-2563EB?style=flat-square&amp;labelColor=0F172A" alt="Focus: SOC and Blue Team" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BASED_IN-Morocco-0D9488?style=flat-square&amp;labelColor=0F172A" alt="Based in Morocco" />
+</p>
+
+<br />
+
+<a href="#about"><img src="https://img.shields.io/badge/01_ABOUT-0F172A?style=for-the-badge" alt="About" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/02_PROJECTS-155E75?style=for-the-badge" alt="Projects" /></a>
+<a href="#toolkit"><img src="https://img.shields.io/badge/03_TOOLKIT-0F172A?style=for-the-badge" alt="Toolkit" /></a>
+<a href="#learning"><img src="https://img.shields.io/badge/04_LEARNING-155E75?style=for-the-badge" alt="Learning" /></a>
+<a href="#opportunities"><img src="https://img.shields.io/badge/05_OPPORTUNITIES-0F172A?style=for-the-badge" alt="Opportunities" /></a>
+
+<br /><br />
+
+<table>
+<tr>
+<td align="center">
+<br />
+<img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIP-22D3EE?style=for-the-badge&amp;labelColor=0F172A" alt="Open to internship" />
+<h3>Final-year internship · February 2027</h3>
+<p><strong>6 months</strong> &nbsp; / &nbsp; SOC &nbsp; / &nbsp; Blue Team &nbsp; / &nbsp; Cybersecurity Audit</p>
+<sub>Bringing curiosity, engineering fundamentals and hands-on lab experience.</sub>
+<br /><br />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<a id="about"></a>
+
+## 01 &nbsp; / &nbsp; About me
+
+I’m **Mohammed EL AOUNI**, a second-year Master’s student in **Computer Security & Cryptology** at **FST Al Hoceima, Morocco**.
+
+My background in data engineering and software development shapes how I approach cybersecurity: understand the system, examine the evidence, and build tools that make investigation easier.
+
+I’m developing practical experience in **defensive security, Windows infrastructure and security automation** through academic projects and personal labs.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔎 Investigate</h3>
+<p>Understand normal behavior, explore security events and investigate unusual account activity.</p>
+<p>
+<code>Log analysis</code>
+<code>Identity security</code>
+<code>Blue Team</code>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚙️ Build</h3>
+<p>Create practical labs, automate repetitive tasks and document findings with clear technical context.</p>
+<p>
+<code>Python</code>
+<code>PowerShell</code>
+<code>Windows Server</code>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<a id="projects"></a>
+
+## 02 &nbsp; / &nbsp; Selected projects
+
+<table>
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/FEATURED_PROJECT-0891B2?style=flat-square" alt="Featured project" />
+<img src="https://img.shields.io/badge/STATUS-In_progress-0F172A?style=flat-square" alt="In progress" />
+
+<h3>🛡️ Mini SOC</h3>
+<p><strong>Security monitoring &amp; incident investigation lab</strong></p>
+
+<p>A personal defensive security environment with <strong>Wazuh deployed in GitHub Codespaces</strong>, focused on bringing together endpoint telemetry and investigation practice.</p>
+
+<p><strong>Current focus:</strong> Connecting a local Windows Server / Active Directory environment and developing authentication and account activity scenarios.</p>
+
+<p>
+<code>Wazuh</code> &nbsp;
+<code>Docker</code> &nbsp;
+<code>GitHub Codespaces</code> &nbsp;
+<code>Windows Server</code>
+</p>
+
+<details>
+<summary><strong>Explore the lab scope</strong></summary>
+<br />
+<ul>
+<li><strong>Deployment:</strong> Deploy and explore a containerized Wazuh environment.</li>
+<li><strong>Endpoint integration:</strong> Work on collecting Windows security events from a local environment.</li>
+<li><strong>Investigation:</strong> Develop exercises around authentication failures and account activity.</li>
+<li><strong>Documentation:</strong> Record configuration steps, observations and investigation findings.</li>
+</ul>
+<p><strong>Stage:</strong> Endpoint integration and detection practice.</p>
+</details>
+
+<br />
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/IDENTITY_SECURITY-2563EB?style=flat-square" alt="Identity security" />
+
+<h3>🗂️ Active Directory Monitor</h3>
+
+<p>A Python desktop application that centralizes directory visibility and account management.</p>
+
+<p><strong>Purpose</strong><br />
+Make users, groups, computers and account security information easier to inspect from one interface.</p>
+
+<p>
+<code>Python</code>
+<code>Kivy</code>
+<code>ldap3</code>
+<code>LDAPS</code>
+</p>
+
+<details>
+<summary><strong>View capabilities</strong></summary>
+<br />
+<ul>
+<li>Explore directory users, groups and computers.</li>
+<li>Inspect account status and security information.</li>
+<li>Unlock accounts and reset passwords over LDAPS.</li>
+<li>Review Windows events and alerts.</li>
+</ul>
+</details>
+
+<br />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/DATA_ENGINEERING-0D9488?style=flat-square" alt="Data engineering" />
+
+<h3>🌦️ OrieMétéo ETL Pipeline</h3>
+
+<p>A Bachelor’s final-year project tracking weather data across eight cities in Eastern Morocco.</p>
+
+<p><strong>Purpose</strong><br />
+Turn API and historical weather data into structured datasets and dashboards for monitoring conditions.</p>
+
+<p>
+<code>Airflow</code>
+<code>PostgreSQL</code>
+<code>Docker</code>
+<code>Power BI</code>
+</p>
+
+<details>
+<summary><strong>Explore the pipeline</strong></summary>
+<br />
+<ul>
+<li><strong>Extract:</strong> Collect OpenWeather API and CSV data.</li>
+<li><strong>Transform:</strong> Clean and prepare records with Pandas.</li>
+<li><strong>Load:</strong> Store structured data in PostgreSQL.</li>
+<li><strong>Orchestrate:</strong> Schedule ETL workflows with Airflow.</li>
+<li><strong>Visualize:</strong> Explore current and historical weather conditions.</li>
+</ul>
+</details>
+
+<br />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<a id="toolkit"></a>
+
+## 03 &nbsp; / &nbsp; Technical toolkit
+
+<div align="center">
+
+<p><strong>Security foundations. Practical engineering tools.</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&amp;logo=python&amp;logoColor=22D3EE" alt="Python" />
+<img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&amp;logo=linux&amp;logoColor=22D3EE" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&amp;logo=docker&amp;logoColor=22D3EE" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&amp;logo=git&amp;logoColor=22D3EE" alt="Git" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&amp;logo=postgresql&amp;logoColor=22D3EE" alt="PostgreSQL" />
+</p>
+
+<sub>Used across academic projects and personal labs.</sub>
+
+</div>
+
+<br />
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Security monitoring** | Wazuh · Windows Event Logs |
+| **Systems & identity** | Windows Server · Active Directory · LDAP / LDAPS · Linux |
+| **Network analysis** | Wireshark · Nmap · GNS3 · Cisco Packet Tracer |
+| **Development & scripting** | Python · PowerShell · Kivy · ldap3 |
+| **Data engineering** | Pandas · PostgreSQL · Apache Airflow · Power BI |
+| **Development environment** | Docker · Git · GitHub Codespaces · VS Code |
+| **Virtualization** | VirtualBox · VMware |
+
+<br />
+
+<a id="learning"></a>
+
+## 04 &nbsp; / &nbsp; Learning with purpose
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎯 Current learning focus</h3>
+
+<p><strong>01 · Detection engineering</strong><br />
+Turning Windows security events into useful investigation scenarios.</p>
+
+<p><strong>02 · Incident investigation</strong><br />
+Understanding failed authentication and suspicious account activity.</p>
+
+<p><strong>03 · Security automation</strong><br />
+Using Python and PowerShell to simplify repetitive analysis.</p>
+
+<p><strong>04 · Cryptography</strong><br />
+Connecting mathematical foundations with practical security mechanisms.</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎓 Education &amp; community</h3>
+
+<p>
+<img src="https://img.shields.io/badge/CURRENT-MASTER_2-0891B2?style=flat-square&amp;labelColor=0F172A" alt="Currently in Master 2" />
+</p>
+<p><strong>Computer Security &amp; Cryptology</strong><br />
+FST Al Hoceima · Morocco</p>
+
+<br />
+
+<p>
+<img src="https://img.shields.io/badge/2025-BACHELOR'S-2563EB?style=flat-square&amp;labelColor=0F172A" alt="Bachelor's degree completed in 2025" />
+</p>
+<p><strong>Data Engineering &amp; Software Development</strong><br />
+FST Al Hoceima · Morocco</p>
+
+<br />
+
+<p>
+<img src="https://img.shields.io/badge/2026-MACC_PARTICIPANT-0D9488?style=flat-square&amp;labelColor=0F172A" alt="MACC 2026 participant" />
+</p>
+<p><strong>Morocco Academia Cyber Competition</strong><br />
+Participation in MACC 2026</p>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<a id="opportunities"></a>
+
+## 05 &nbsp; / &nbsp; Let’s build something useful
+
+I’m looking for a **six-month final-year internship starting in February 2027**, where I can contribute to security monitoring, incident investigation or cybersecurity auditing while learning from an experienced team.
+
+I’m also interested in collaborating on **Blue Team labs, Active Directory monitoring and Python security tools**.
+
+<div align="center">
+
+<br />
+
+<img src="https://img.shields.io/badge/SOC-0891B2?style=for-the-badge" alt="SOC" />
+<img src="https://img.shields.io/badge/BLUE_TEAM-2563EB?style=for-the-badge" alt="Blue Team" />
+<img src="https://img.shields.io/badge/CYBERSECURITY_AUDIT-0D9488?style=for-the-badge" alt="Cybersecurity Audit" />
+
+<!-- Add verified LinkedIn, professional email and project links here. -->
+
+<br /><br />
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+<br />
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+<strong>Rigor &nbsp; · &nbsp; Analytical thinking &nbsp; · &nbsp; Teamwork &nbsp; · &nbsp; Technical curiosity</strong>
+
+<p><sub>Learn the fundamentals. Build the lab. Document the findings.</sub></p>
+
+<br />
+
+<a href="#top">
+<img src="https://img.shields.io/badge/BACK_TO_TOP_%E2%86%91-0F172A?style=flat-square" alt="Back to top" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,40:0F172A,75:0E7490,100:22D3EE&amp;height=110&amp;section=footer" alt="" />
+
+</div>
